@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 	"net/http"
-	"project-hub/router"
+	"github.com/BrayanPerez2607/project-hub/router"
 )
 
 func main() {
